@@ -1,12 +1,11 @@
 // firebaseConfig.js
 const firebaseConfig = {
-    apiKey: "AIzaSyBh_D-Si856AUMANrMHcZbGn7fAhftjMvQ",
-    authDomain: "time-controler.firebaseapp.com",
-    projectId: "time-controler",
-    storageBucket: "time-controler.appspot.com",
-    messagingSenderId: "510270938510",
-    appId: "1:510270938510:web:57c604b8aec63619ef98df",
-    measurementId: "G-LFBT4E7CPF"
-  }
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    appId: "YOUR_APP_ID"
+};
 
 export default firebaseConfig;
